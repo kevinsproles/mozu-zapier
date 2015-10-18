@@ -1,0 +1,12 @@
+{
+  "name": "mozu-zapier",
+  "version": "0.0.1",
+  "description": "Mozu Zapier Integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "0.12.7"
+  }
+}
